@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "5053d0e3-f3be-4972-a37f-7bd14cdf1fe6",
+    "aircraftType": "regional",
+    "airplane": {
+      "name": "Boeing 747-200",
+      "iataTypeCode": "742"
+    },
+    "airport": {
+      "name": "Eleftherios Venizelos International Airport",
+      "iataCode": "ATH"
+    },
+    "flightNumber": "862",
+    "seat": "14B"
+  }
+]
